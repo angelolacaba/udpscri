@@ -1,8 +1,6 @@
  #!/usr/bin/env bash
 #
-# Try `install_agnudp.sh --help` for usage.
 #
-# (c) 2023 Khaled AGN
 #
 
 set -e
@@ -13,7 +11,7 @@ set -e
 ###
 
 # Domain Name
-DOMAIN="vpn.khaledagn.com"
+DOMAIN="fucking.udp.com"
 
 # PROTOCOL
 PROTOCOL="udp"
@@ -22,10 +20,10 @@ PROTOCOL="udp"
 UDP_PORT=":36712"
 
 # OBFS
-OBFS="agnudp"
+OBFS="bubu"
 
 # PASSWORDS
-PASSWORD="agnudp"
+PASSWORD="bubu"
 
 # Basename of this script
 SCRIPT_NAME="$(basename "$0")"
